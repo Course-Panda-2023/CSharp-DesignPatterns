@@ -1,0 +1,10 @@
+3
+P
+AAaa
+2
+P
+BBbb
+3
+P
+CCcc
+7
