@@ -1,0 +1,4 @@
+<Number of Requests>
+<type = P/W>
+<data (English letters only)location>
+<on time>הזמן שבו תשלח הבקשה
