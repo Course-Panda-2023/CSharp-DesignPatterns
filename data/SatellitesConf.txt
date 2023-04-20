@@ -1,0 +1,5 @@
+<Number of satellites>
+<BW/W/WV> blue white/wheater/world view
+<id>
+<elapse time>
+<start time>
